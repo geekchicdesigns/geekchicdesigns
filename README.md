@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geekchicdesigns
 - 👀 I’m interested in Software Development, Web Designs, Graphics, and DevOps!
-- 🌱 I’m Cloud Computing and virtual development genius!
+- 🌱 I’m a Cloud Computing and virtual development genius!
 - 💞️ I’m looking to collaborate with technically inclined minds.
 - 📫 How to reach me: send me a note! 
 
